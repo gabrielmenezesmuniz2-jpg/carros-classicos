@@ -1,0 +1,28 @@
+.cabecalho{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 5%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+}
+
+.implogo{
+    width: 100px;
+    height: 100px;
+}
+
+.nav-links{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+.link-item{
+    color: aliceblue #000;
+    font-weight: bold;
+}
+.link-item{
+    color:aqua;
+
+}
